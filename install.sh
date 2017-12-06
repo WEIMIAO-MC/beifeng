@@ -55,7 +55,7 @@ fi
 
 #Install SSR and SSR-Bash
 cd /usr/local/
-git clone http://bk.vip-wm.com/wp-content/uploads/2017/12/shadowsocksr.zip /usr/local/shadowsocksr.zip
+git clone 下载地址 /usr/local/shadowsocksr.zip
 chmod -R 777 /usr/local/SSR-Bash-Python/
 cd /usr/local/shadowsocksr
 unzip shadowsocksr.zip
